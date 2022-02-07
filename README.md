@@ -41,7 +41,7 @@
 
 
 <h2>Statistics</h2>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fox1206)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fox1206&theme=tokyonight_duo&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 
 
