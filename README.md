@@ -44,6 +44,13 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fox1206&theme=tokyonight_duo&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/fox1206/badges/large)](https://www.codewars.com/users/fox1206)   
+
+
+
+
 
 
 
