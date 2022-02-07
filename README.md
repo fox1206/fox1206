@@ -4,16 +4,10 @@
 
 
 <h2>Contacts</h2>
-телефон: 89208357835<br>
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
- fox_kom@internet.ru<br>
- 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-Maru_@IMP...Fox...<br>
-
+<ul>
+ <li>телефон: 89208357835</li>
+ <li>e-mail: fox_kom@internet.ru<br></li>
+</ul>
 
 
 <h2>About me</h2>
