@@ -3,6 +3,7 @@
 <h3 align="center">Junior java developer</h3>
 
 
+
 <h2>Contacts</h2>
 <ul>
  <li>телефон: 89208357835</li>
@@ -10,10 +11,12 @@
 </ul>
 
 
+
 <h2>About me</h2>
 <p>До июля 2020 года работала в банковской сфере, после чего приняла решение сменить сферу деятельности по причине невозможности развиваться далее в этой сфере.</p>
 <p>Прошла курсы от Компьютерной Академии Шаг по направлению "Язык программирования Java".</p>
 <p>Хотела бы работать под руководством опытного разработчика, чтобы получить практический опыт в новом направлении.</p>
+
 
 
 <h2>Skills</h2>
@@ -33,8 +36,12 @@
 
 ![Комардина Мария Олеговна (2)-4](https://user-images.githubusercontent.com/96116756/152807832-277256ee-f304-4f26-a916-a7bc2ff98a59.png)
 
-
 ![IMG_20201016_220712_120](https://user-images.githubusercontent.com/96116756/152805876-f3c7f648-a52e-450e-a4da-546ff2be364d.png)
+
+
+
+<h2>Statistics</h2>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fox1206)](https://git.io/streak-stats)
 
 
 
