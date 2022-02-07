@@ -30,6 +30,14 @@
 
 
 
+<h2>Projects</h2>
+<ul>
+ <li><a href="https://tutorappkurilsk.herokuapp.com/">Проект java</a></li>
+ <li><a href="https://rolling-scopes-school.github.io/fox1206-JSFEPRESCHOOL/portfolio/">Проект js</a></li>
+</ul>
+
+
+
 <h2>Courses</h2>
 
 ![Комардина Мария Олеговна (2)-3](https://user-images.githubusercontent.com/96116756/152807771-2229d153-05c4-451a-94a6-f72f76f448fd.png)
