@@ -40,9 +40,11 @@
 
 <h2>Courses</h2>
 
-<!-- ![Комардина Мария Олеговна (2)-3](https://user-images.githubusercontent.com/96116756/152807771-2229d153-05c4-451a-94a6-f72f76f448fd.png)
+![strage0.pdf](https://github.com/fox1206/fox1206/files/8315577/strage0.pdf)
 
-![Комардина Мария Олеговна (2)-4](https://user-images.githubusercontent.com/96116756/152807832-277256ee-f304-4f26-a916-a7bc2ff98a59.png) -->
+![Комардина Мария Олеговна (2)-3](https://user-images.githubusercontent.com/96116756/152807771-2229d153-05c4-451a-94a6-f72f76f448fd.png)
+
+![Комардина Мария Олеговна (2)-4](https://user-images.githubusercontent.com/96116756/152807832-277256ee-f304-4f26-a916-a7bc2ff98a59.png)
 
 ![IMG_20201016_220712_120](https://user-images.githubusercontent.com/96116756/152805876-f3c7f648-a52e-450e-a4da-546ff2be364d.png)
 
