@@ -40,7 +40,7 @@
 
 <h2>Courses</h2>
 
-![strage0.pdf](https://github.com/fox1206/fox1206/files/8315577/strage0.pdf)
+![strage0-1](https://user-images.githubusercontent.com/96116756/159268008-e37fdd27-d748-4c4b-9ca0-728d6524a92b.png)
 
 ![Комардина Мария Олеговна (2)-3](https://user-images.githubusercontent.com/96116756/152807771-2229d153-05c4-451a-94a6-f72f76f448fd.png)
 
