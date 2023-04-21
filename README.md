@@ -31,10 +31,11 @@
 
 <h2>Projects</h2>
 <ul>
- <li><a href="https://tutorappkurilsk.herokuapp.com/">Проект java</a></li>
+<!--  <li><a href="https://tutorappkurilsk.herokuapp.com/">Проект java</a></li> -->
  <li><a href="https://rolling-scopes-school.github.io/fox1206-JSFEPRESCHOOL/portfolio/">Portfolio</a></li>
  <li><a href="https://rolling-scopes-school.github.io/fox1206-JSFEPRESCHOOL2022Q2/travel/">Travel</a></li>
  <li><a href="https://rolling-scopes-school.github.io/fox1206-JSFEPRESCHOOL2022Q2/momentum/">Momentum</a></li>
+ <li><a href="https://fox1206.github.io/shelter/main/index.html">Shelter</a></li>
 </ul>
 
 
